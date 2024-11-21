@@ -1,0 +1,68 @@
+.container {
+    font-family: sans-serif;
+    text-align: center;
+    background-color: #2f3453;
+    height: 100vh;
+}
+
+.UpSideBar {
+    display: flex;
+    gap: 150px;
+    justify-content: center;
+    padding: 45px;
+    color: white;
+}
+
+.Bname {
+   font-size: 30px;
+}
+
+.naveBar {
+    display: flex;
+    gap: 20px;
+    padding-bottom: 100px;
+}
+
+.Bar {
+    color: white;
+    text-decoration: none;
+}
+
+.btn {
+    color: white;
+    padding: 15px;
+    border-radius: 5px;
+    text-decoration: none;
+}
+
+div > .lbtn {
+    border: 1px solid #0ad0f4;
+    padding: 15px 40px;
+
+}
+
+.btn:hover {
+    background-color:#0ad0f4;
+}
+
+
+.join {
+    color: #0ad0f4;
+    text-decoration: none;
+}
+
+h1 {
+    color: white;
+    font-size: 40px;
+}
+
+.tagline {
+    color: white;
+    font-size: 20px;
+    padding: 20px;
+}
+
+.end {
+    display: flex;
+    margin-top: 200px;
+}
